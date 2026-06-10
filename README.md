@@ -3,9 +3,9 @@
 
 Hi there, I'm Abid! 👋
 
-AI Researcher | NLP & Generative AI Engineer | Assistant Professor | Python Developer
+Assistant Professor | AI & NLP Engineer | Python Developer
 
-I build intelligent systems using Machine Learning, Natural Language Processing, Speech Technologies, and Generative AI. My experience spans AI product development, academic research, teaching, and mentoring. Passionate about multilingual language technologies, transformer-based models, and solving real-world problems with AI.
+I work at the intersection of Artificial Intelligence, Natural Language Processing, Machine Learning, and Education. My experience spans academic teaching, AI application development, research, and student mentorship. I enjoy building intelligent systems, exploring machine learning applications, and bridging the gap between research and real-world implementation.
 
 ---
 
