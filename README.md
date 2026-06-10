@@ -1,12 +1,12 @@
 # AbidbinAzhar
 
-# AI Researcher | NLP & Generative AI Engineer | Multilingual Language Technologies | Assistant Professor
+## AI Researcher | NLP & Generative AI Engineer | Multilingual Language Technologies | Assistant Professor
 
 I am an AI researcher, educator, and software engineer working at the intersection of Natural Language Processing (NLP), Generative AI, Machine Learning, and Multilingual Language Technologies. My experience spans academic research, AI product development, teaching, and student mentorship.
 
 My recent work focuses on transformer-based NLP systems, machine translation, speech technologies, and applied Generative AI, with a strong interest in building intelligent systems that bridge research and real-world applications.
 
-# Research Interests
+### Research Interests
 Multilingual Natural Language Processing (NLP)
 Large Language Models (LLMs)
 Small Language Models (SLMs)
