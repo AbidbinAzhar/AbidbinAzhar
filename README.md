@@ -29,28 +29,28 @@ Applied Machine Learning Solutions
 Featured Research & Industry Projects
 Multilingual Neural Machine Translation System
 
-# Tools: Python, Hugging Face Transformers, mBART, MarianMT, NLTK
+### Tools: Python, Hugging Face Transformers, mBART, MarianMT, NLTK
 Developed a real-time multilingual translation system using transformer-based architectures.
 Integrated Hugging Face's mBART and MarianMT models for cross-lingual language translation.
 Processed and translated real-time news content through automated NLP pipelines.
 Implemented text preprocessing, tokenization, and inference workflows for multilingual applications.
 Speech Intelligence System (ASR + TTS)
 
-# Tools: Python, Hugging Face, Gradio, ParlerTTS
+### Tools: Python, Hugging Face, Gradio, ParlerTTS
 Developed an Automatic Speech Recognition (ASR) pipeline for speech-to-text conversion.
 Implemented Text-to-Speech (TTS) functionality using ParlerTTS with GPU acceleration.
 Built an interactive Gradio-based interface for speech-enabled AI applications.
 Explored multilingual speech processing workflows and language technology applications.
 Real-Time Face Recognition System
 
-# Tools: Python, OpenCV, Firebase
+### Tools: Python, OpenCV, Firebase
 Designed and implemented a real-time face recognition system for automated attendance management.
 Developed facial embedding generation and recognition pipelines.
 Integrated Firebase Realtime Database for efficient storage and retrieval of attendance records.
 Optimized recognition performance for real-world deployment scenarios.
 Predictive Kidney Disease Detection System
 
-# Tools: Python, Scikit-learn, Keras
+### Tools: Python, Scikit-learn, Keras
 Developed predictive machine learning models using Decision Trees and Artificial Neural Networks.
 Applied feature engineering, preprocessing, and model optimization techniques.
 Improved prediction accuracy for early disease risk assessment and clinical decision support.
@@ -63,26 +63,26 @@ Machine Learning & AI
 
 TensorFlow • PyTorch • Keras • Scikit-learn • Hugging Face Transformers
 
-# NLP & Generative AI
+### NLP & Generative AI
 Transformers • Large Language Models (LLMs) • mBART • MarianMT • SentencePiece • NLTK • Neural Machine Translation • Automatic Speech Recognition • Text-to-Speech • Prompt Engineering
 
-# Data Engineering & Storage
+### Data Engineering & Storage
 Firebase Realtime Database • SQL • NoSQL
 
-# Data Analysis & Visualization
+### Data Analysis & Visualization
 Pandas • NumPy • Matplotlib • Seaborn • Power BI
 
-# Development Tools
+### Development Tools
 Git • GitHub • Jupyter Notebook • Google Colab • VS Code • PyCharm
 
-# Publications
+### Publications
 A Retrospective Study on Bayesian Networks in Machine Learning (2024)
 Presented at the International Conference on ICT for Digital, Smart and Sustainable Development.
 
 Ethical Flaws of ChatGPT: Evaluating Ethical Concerns Across Various Domains (2025)
 Presented at the International Conference on ICT for Digital, Smart and Sustainable Development.
 
-Academic & Professional Experience
+### Academic & Professional Experience
 Assistant Professor – Computer Science & Engineering
 Teaching Natural Language Processing, Python Programming, Computer Organization & Architecture, and Data Analytics.
 Supervising AI, NLP, and Data Science projects.
@@ -95,7 +95,6 @@ Worked on multilingual language processing systems and intelligent automation so
 Open Source & Research Goals
 
 I am actively interested in collaborating on:
-
 Multilingual NLP
 Language Models (LLMs & SLMs)
 Generative AI
