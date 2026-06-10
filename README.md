@@ -18,17 +18,10 @@ I work at the intersection of Artificial Intelligence, Natural Language Processi
 - Automatic Speech Recognition (ASR)
 - Text-to-Speech (TTS)
 
-### Generative AI
-- Large Language Models (LLMs)
-- Prompt Engineering
-- AI-powered Applications
-- Language Model Fine-Tuning
-- Responsible AI & AI Ethics
-
 ### Machine Learning & AI
 - Predictive Analytics
 - Deep Learning Applications
-- Classification & Regression Models
+- Computer Vision and Face Recognition
 - Bayesian Networks
 - Applied AI Research
 
@@ -70,14 +63,10 @@ Git • GitHub • Jupyter • Colab • VS Code • PyCharm
 
 ## 🔬 Research Interests
 
-- Multilingual NLP
-- Large Language Models (LLMs)
-- Small Language Models (SLMs)
+- Natural Language Processing
+- Machine Learning
 - Generative AI
-- Information Extraction
-- Speech Technologies
 - AI Ethics
-- Bayesian Networks
 
 ---
 
