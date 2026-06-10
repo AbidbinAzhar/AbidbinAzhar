@@ -78,6 +78,15 @@ Git • GitHub • Jupyter • Colab • VS Code • PyCharm
 
 ---
 
+## 👨‍🏫 Research & Project Mentorship
+
+📄 Smart Scholarship and Financial Aid Recommender System Using NLP and Machine Learning (manuscript under preparation)
+
+📄 AI-Based Career Guidance System
+
+Guided student projects in AI, NLP, Machine Learning, and Data Science domains
+
+---
 ## 🌱 Current Focus
 
 - Multilingual Language Models
