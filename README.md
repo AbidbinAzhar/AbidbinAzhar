@@ -1,4 +1,4 @@
-# abid-ml-nlp
+# AbidbinAzhar
 
 ### Assistant Professor | AI & NLP Engineer | Python Developer | Data Science Enthusiast
 
