@@ -71,10 +71,11 @@ Git • GitHub • Jupyter • Colab • VS Code • PyCharm
 ---
 
 ## 📚 Publications
+### Conference Proceedings
 
-📄 A Retrospective Study on Bayesian Networks in Machine Learning (2024)
+📄 Azhar, A. B., & Ghafir, S. (2024). A Retrospective Study on Bayesian Networks in Machine Learning. Proceedings of the 4th International Conference on ICT for Digital, Smart, and Sustainable Development.
 
-📄 Ethical Flaws of ChatGPT: Evaluating Ethical Concerns Across Various Domains (2025)
+📄 Azhar, A. B., & Ghafir, S. (2025). Ethical Flaws of ChatGPT: Evaluating Ethical Concerns Across Various Domains. Proceedings of the 5th International Conference on ICT for Digital, Smart, and Sustainable Development.
 
 ---
 
