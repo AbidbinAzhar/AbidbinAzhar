@@ -1,109 +1,120 @@
 # AbidbinAzhar
 
-### Assistant Professor | AI & NLP Engineer | Python Developer | Data Science Enthusiast
+AI Researcher | NLP & Generative AI Engineer | Multilingual Language Technologies | Assistant Professor
 
-I work at the intersection of Artificial Intelligence, Natural Language Processing, Data Science, and Education. My experience spans industry AI development, academic teaching, research, and student mentoring. I enjoy building intelligent systems, exploring machine learning applications, and helping students bridge the gap between theory and real-world implementation.
+I am an AI researcher, educator, and software engineer working at the intersection of Natural Language Processing (NLP), Generative AI, Machine Learning, and Multilingual Language Technologies. My experience spans academic research, AI product development, teaching, and student mentorship.
 
----
+My recent work focuses on transformer-based NLP systems, machine translation, speech technologies, and applied Generative AI, with a strong interest in building intelligent systems that bridge research and real-world applications.
 
-## 🚀 What I Do
+Research Interests
+Multilingual Natural Language Processing (NLP)
+Large Language Models (LLMs)
+Small Language Models (SLMs)
+Generative AI
+Machine Translation
+Information Extraction
+Speech and Language Technologies
+Temporal Reasoning
+AI Ethics and Responsible AI
+Bayesian Networks and Probabilistic Reasoning
+Current Focus
+Multilingual Language Models
+Transformer-based NLP Systems
+Generative AI Applications
+Automatic Speech Recognition (ASR)
+Text-to-Speech (TTS)
+Information Extraction from Unstructured Text
+AI Research and Publications
+Applied Machine Learning Solutions
+Featured Research & Industry Projects
+Multilingual Neural Machine Translation System
 
-### Artificial Intelligence & Machine Learning
+Tools: Python, Hugging Face Transformers, mBART, MarianMT, NLTK
 
-* Machine Learning model development and evaluation
-* Predictive analytics and intelligent decision systems
-* Computer Vision and Face Recognition applications
-* Deep Learning using TensorFlow, PyTorch, and Keras
+Developed a real-time multilingual translation system using transformer-based architectures.
+Integrated Hugging Face's mBART and MarianMT models for cross-lingual language translation.
+Processed and translated real-time news content through automated NLP pipelines.
+Implemented text preprocessing, tokenization, and inference workflows for multilingual applications.
+Speech Intelligence System (ASR + TTS)
 
-### Natural Language Processing
+Tools: Python, Hugging Face, Gradio, ParlerTTS
 
-* Multilingual Machine Translation
-* Transformer-based NLP systems
-* Automatic Speech Recognition (ASR)
-* Text-to-Speech (TTS)
-* Hugging Face Transformers (mBART, MarianMT)
+Developed an Automatic Speech Recognition (ASR) pipeline for speech-to-text conversion.
+Implemented Text-to-Speech (TTS) functionality using ParlerTTS with GPU acceleration.
+Built an interactive Gradio-based interface for speech-enabled AI applications.
+Explored multilingual speech processing workflows and language technology applications.
+Real-Time Face Recognition System
 
-### Python Development
+Tools: Python, OpenCV, Firebase
 
-* Data processing and automation
-* AI-powered application development
-* REST APIs and backend integration
-* Research-oriented prototyping
+Designed and implemented a real-time face recognition system for automated attendance management.
+Developed facial embedding generation and recognition pipelines.
+Integrated Firebase Realtime Database for efficient storage and retrieval of attendance records.
+Optimized recognition performance for real-world deployment scenarios.
+Predictive Kidney Disease Detection System
 
-### Teaching & Mentoring
+Tools: Python, Scikit-learn, Keras
 
-* Computer Organization & Architecture
-* Python Programming
-* Natural Language Processing
-* Data Analytics & Power BI
-* AI, NLP, and Data Science Project Guidance
+Developed predictive machine learning models using Decision Trees and Artificial Neural Networks.
+Applied feature engineering, preprocessing, and model optimization techniques.
+Improved prediction accuracy for early disease risk assessment and clinical decision support.
+Technical Skills
+Programming Languages
 
----
+Python • C/C++ • Java
 
-## 🛠️ Tech Stack
+Machine Learning & AI
 
-### Programming Languages
+TensorFlow • PyTorch • Keras • Scikit-learn • Hugging Face Transformers
 
-Python • Java • C/C++
+NLP & Generative AI
 
-### Machine Learning & AI
+Transformers • Large Language Models (LLMs) • mBART • MarianMT • SentencePiece • NLTK • Neural Machine Translation • Automatic Speech Recognition • Text-to-Speech • Prompt Engineering
 
-TensorFlow • PyTorch • Keras • Scikit-learn • Hugging Face
-
-### Natural Language Processing
-
-Transformers • mBART • MarianMT • NLTK • SentencePiece
-
-### Computer Vision
-
-OpenCV • Face Recognition
-
-### Data Analysis & Visualization
-
-Pandas • NumPy • Matplotlib • Seaborn • Power BI
-
-### Databases
+Data Engineering & Storage
 
 Firebase Realtime Database • SQL • NoSQL
 
-### Tools & Platforms
+Data Analysis & Visualization
+
+Pandas • NumPy • Matplotlib • Seaborn • Power BI
+
+Development Tools
 
 Git • GitHub • Jupyter Notebook • Google Colab • VS Code • PyCharm
 
----
+Publications
+A Retrospective Study on Bayesian Networks in Machine Learning (2024)
 
-## 📚 Research Interests
+Presented at the International Conference on ICT for Digital, Smart and Sustainable Development.
 
-* Natural Language Processing
-* Large Language Models (LLMs)
-* Generative AI
-* Machine Learning
-* Bayesian Networks
-* AI Ethics
-* Explainable AI
-* Applied Data Science
+Ethical Flaws of ChatGPT: Evaluating Ethical Concerns Across Various Domains (2025)
 
----
+Presented at the International Conference on ICT for Digital, Smart and Sustainable Development.
 
-## 🔬 Publications
+Academic & Professional Experience
+Assistant Professor – Computer Science & Engineering
+Teaching Natural Language Processing, Python Programming, Computer Organization & Architecture, and Data Analytics.
+Supervising AI, NLP, and Data Science projects.
+Contributing to academic research, publications, and curriculum development.
+Mentoring students in applied machine learning and software engineering.
+Software Engineer
+Developed AI-powered solutions involving Computer Vision, NLP, Speech Technologies, and Data Processing.
+Built production-oriented applications using Python, Hugging Face, OpenCV, and Firebase.
+Worked on multilingual language processing systems and intelligent automation solutions.
+Open Source & Research Goals
 
-* A Retrospective Study on Bayesian Networks in Machine Learning (2024)
-* Ethical Flaws of ChatGPT: Evaluating Ethical Concerns Across Various Domains (2025)
+I am actively interested in collaborating on:
 
----
+Multilingual NLP
+Language Models (LLMs & SLMs)
+Generative AI
+Information Extraction
+Speech Technologies
+Research Publications
+Open-Source AI Projects
+Let's Connect
 
-## 🌱 Current Focus
+I welcome collaborations in AI research, NLP, machine learning, speech technologies, and open-source development.
 
-* Multilingual NLP Systems
-* Generative AI Applications
-* AI Research & Publications
-* Student Mentorship and Project Guidance
-* Applied Machine Learning Solutions
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in collaborating on AI, NLP, Machine Learning, Research, and Open-Source projects.
-
-*"Transforming data into insights, and ideas into intelligent solutions."*
+"Building intelligent systems that transform language, knowledge, and data into meaningful insights."
